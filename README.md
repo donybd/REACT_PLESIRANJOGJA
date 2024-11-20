@@ -1,7 +1,7 @@
-#REACT PROJECT PLESIRAN JOGJA
+# REACT PROJECT PLESIRAN JOGJA
 
-localhost/login -----> Untuk User
-localhost/admin -----> Untuk Admin
+= localhost/login -----> Untuk User
+- localhost/admin -----> Untuk Admin
 
 # React + Vite
 
