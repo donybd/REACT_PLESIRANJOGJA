@@ -1,3 +1,8 @@
+#REACT PROJECT PLESIRAN JOGJA
+
+localhost/login -----> Untuk User
+localhost/admin -----> Untuk Admin
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
